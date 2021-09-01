@@ -5,12 +5,13 @@ import "./style.css";
 
 function AboutContainer() {
     return (
+        // the uk-container class gives it a max width and wraps the main content of the website, also it will be centers and will have padding on the sides
         <div className="uk-container">
             <div className="uk-text-center">
                 <div id="about-container">
                     <div id="about-me">
                         <Header title="About Me" />
-                        <p className="uk-text-justify about-me-desc">
+                        <p className="uk-text-justify about-me">
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been 
                             the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type 
                             and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap 
