@@ -1,9 +1,12 @@
 const frontend = [
     "React",
+    "Handlebars",
     "HTML",
     "CSS",
     "jQuery",
-    "Bootstrap & UIKit",
+    "Bootstrap",
+    "UIKit",
+    "Responsive Web Design"
 ];
 
 const backend = [
@@ -19,17 +22,12 @@ const backend = [
 
 const design = [
     "Figma",
-    "Responsive Web Design"
-];
-
-const other = [
-    "Wordpress website",
+    "Wordpress Site Management",
     "Squarspace",
-    "Dream"
-  
+    "DreamHost", 
+    "Heroku",
+    "Jira Software",
+    "Trello/Kanban"
 ];
 
-
-// adding production &/or other 
-
-export {frontend, backend, design, other}
+export {frontend, backend, design}

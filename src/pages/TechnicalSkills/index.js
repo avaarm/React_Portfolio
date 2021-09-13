@@ -5,7 +5,8 @@ import Navbar from "../../components/Navbar";
 import CardContainer from "../../components/CardContainer";
 import BackgroundImage from "../../components/BackgroundImage";
 import SkillsCard from "../../components/SkillsCard";
-import { frontend, backend, design, other } from "../../utils/TechSkillsData";
+import {Techniques, Administrative, Instruments} from "../../utils/BiotechSkillsData"
+import { frontend, backend, design } from "../../utils/TechSkillsData";
 import imageURL from "../../images/background.jpg";
 
 function TechnicalSkills(props) {
@@ -18,7 +19,7 @@ function TechnicalSkills(props) {
                     <SkillsCard
                         skills={frontend}
                         title="Frontend"
-                        icon="desktop"
+                        icon="users"
                         name="client"
                         animate="slide-left"
                     />
@@ -31,18 +32,39 @@ function TechnicalSkills(props) {
                     />
                     <SkillsCard
                         skills={design}
-                        title="Design"
-                        icon="paint-bucket"
+                        title="Design & Other"
+                        icon="nut"
                         name="design"
                         animate="slide-right"
                     />
-                      <SkillsCard
-                        skills={other}
-                        title="Other"
+                  
+                </div>
+            </CardContainer>
+            <Header padding={70} title="Biotech & Clinical Skills" />
+            <CardContainer>
+                <div className="uk-child-width-1-3@m uk-grid-match" uk-grid="true" id="skills-section">
+                    <SkillsCard
+                        skills={Techniques}
+                        title="Techniques"
+                        icon="cog"
+                        name="cog"
+                        animate="slide-left"
+                    />
+                    <SkillsCard
+                        skills={Administrative}
+                        title="Administrative"
                         icon="paint-bucket"
-                        name="other"
+                        name="paint-bucket"
+                        animate="slide-up"
+                    />
+                    <SkillsCard
+                        skills={Instruments}
+                        title="Instruments & Cells"
+                        icon="server"
+                        name="server"
                         animate="slide-right"
                     />
+                  
                 </div>
             </CardContainer>
         </BackgroundImage>

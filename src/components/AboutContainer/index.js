@@ -12,12 +12,11 @@ function AboutContainer() {
                     <div id="about-me">
                         <Header title="About Me" />
                         <p className="uk-text-justify about-me">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been 
-                            the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type 
-                            and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap 
-                            into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release
-                            of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus 
-                            PageMaker including versions of Lorem Ipsum.
+                        Full-stack web developer with a background in immunology and preclinical research. 
+                        I began my journey into programming in order to create access to tech for young Armenian women,
+                        who do not have the opportunity or tools to learn programming or computer science. 
+                        I now hope to work in the tech industry and along with working on new, exciting technology, gain knowledge and experience, 
+                        so I can better inform young Armenian women who are also interested in technology
                         </p>
                     </div>
                 </div>

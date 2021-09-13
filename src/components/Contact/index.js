@@ -24,12 +24,6 @@ function ContactCanvas() {
                         <a className="contact-link contact-li uk-text-middle" href="https://github.com/avaarm"
                             target="_blank">avaarm</a>
                     </li>
-                    <li>
-                        <a uk-icon="icon: linkedin" href="https://www.linkedin.com/in/joanna-preston/"
-                            className="contact-icon contact-link-icon" target="_blank"></a>
-                        <a className="contact-link contact-li uk-text-bottom" href="https://www.linkedin.com/in/joanna-preston/"
-                            target="_blank">Emma</a>
-                    </li>
                 </ul>
             </div>
         </div>

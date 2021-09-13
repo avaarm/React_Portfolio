@@ -1,21 +1,33 @@
+.aboutTitle{
+    font-weight: bold;
+}
+
+.uk-text-center {
+        animation: fadeInLeft;
+        animation-duration: 3s;
+}
+
 
 #about {
-    border: 1px solid #fda387;
+
+    border: 1px solid rgb(194, 78, 78);
     padding: 7%;
     border-radius: 20px;
 }
 
 #about-container {
-    margin-top: 520px;
+    margin-top: 30px;
     margin-bottom: 100px;
     padding-top: 30px;
 }
 
 @media only screen and (min-width: 769px) {
     #about-container {
-        margin-top: 450px;
-        padding-top: 200px;
-        width: 65%;
-        padding-left: 35%;
+        margin-top: 130px; 
+        width: 60%; 
+        padding-left: 30%;
+        padding-top: 120px;
+       
+      
     } 
 }

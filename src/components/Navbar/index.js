@@ -14,7 +14,7 @@ function Navbar(props) {
     return (
         <div>
             <nav className="uk-navbar-container uk-navbar navbar" style={style.navbar}>
-                <div className="uk-navbar-right">
+                <div className="uk-navbar-center">
                     <ul className="uk-navbar-nav uk-visible@m">
                         <li><Link to="/about" className="nav-item" style={{ color: props.color }}>About</Link></li>
                         <li><Link to="/portfolio" className="nav-item" style={{ color: props.color }}>Portfolio</Link></li>
