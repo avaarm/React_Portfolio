@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/avaarm.github.io/React_Portfolio/static/css/main.8a442428.chunk.css",
+    "main.js": "/avaarm.github.io/React_Portfolio/static/js/main.a1c0a542.chunk.js",
+    "main.js.map": "/avaarm.github.io/React_Portfolio/static/js/main.a1c0a542.chunk.js.map",
+    "runtime-main.js": "/avaarm.github.io/React_Portfolio/static/js/runtime-main.751b0764.js",
+    "runtime-main.js.map": "/avaarm.github.io/React_Portfolio/static/js/runtime-main.751b0764.js.map",
+    "static/js/2.b0227220.chunk.js": "/avaarm.github.io/React_Portfolio/static/js/2.b0227220.chunk.js",
+    "static/js/2.b0227220.chunk.js.map": "/avaarm.github.io/React_Portfolio/static/js/2.b0227220.chunk.js.map",
+    "index.html": "/avaarm.github.io/React_Portfolio/index.html",
+    "static/css/main.8a442428.chunk.css.map": "/avaarm.github.io/React_Portfolio/static/css/main.8a442428.chunk.css.map",
+    "static/js/2.b0227220.chunk.js.LICENSE.txt": "/avaarm.github.io/React_Portfolio/static/js/2.b0227220.chunk.js.LICENSE.txt",
+    "static/media/background.d0ebfa59.jpg": "/avaarm.github.io/React_Portfolio/static/media/background.d0ebfa59.jpg",
+    "static/media/betterEarth.77939316.png": "/avaarm.github.io/React_Portfolio/static/media/betterEarth.77939316.png",
+    "static/media/budgetTracker.fb5520c1.png": "/avaarm.github.io/React_Portfolio/static/media/budgetTracker.fb5520c1.png",
+    "static/media/devBun.9c3f8196.png": "/avaarm.github.io/React_Portfolio/static/media/devBun.9c3f8196.png",
+    "static/media/healthFrontiers.98c5530e.png": "/avaarm.github.io/React_Portfolio/static/media/healthFrontiers.98c5530e.png",
+    "static/media/uplift.077da5d3.png": "/avaarm.github.io/React_Portfolio/static/media/uplift.077da5d3.png",
+    "static/media/workoutTracker.1969627d.png": "/avaarm.github.io/React_Portfolio/static/media/workoutTracker.1969627d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.751b0764.js",
+    "static/js/2.b0227220.chunk.js",
+    "static/css/main.8a442428.chunk.css",
+    "static/js/main.a1c0a542.chunk.js"
+  ]
+}
