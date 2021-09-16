@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.85db82e4.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.7dfaf13a.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.7dfaf13a.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.c7c28671.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.c7c28671.js.map",
+    "static/js/2.1e1fb0d8.chunk.js": "/react-portfolio/static/js/2.1e1fb0d8.chunk.js",
+    "static/js/2.1e1fb0d8.chunk.js.map": "/react-portfolio/static/js/2.1e1fb0d8.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.a3a853ae7b109132758e531fd26f40ee.js": "/react-portfolio/precache-manifest.a3a853ae7b109132758e531fd26f40ee.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.85db82e4.chunk.css.map": "/react-portfolio/static/css/main.85db82e4.chunk.css.map",
+    "static/js/2.1e1fb0d8.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.1e1fb0d8.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/react-portfolio/static/media/background.7d654229.jpg",
+    "static/media/betterEarth.png": "/react-portfolio/static/media/betterEarth.a8f8edf3.png",
+    "static/media/budgetTracker.png": "/react-portfolio/static/media/budgetTracker.f570d6f0.png",
+    "static/media/devBun.png": "/react-portfolio/static/media/devBun.e8f86efd.png",
+    "static/media/healthFrontiers.png": "/react-portfolio/static/media/healthFrontiers.1fe57bb0.png",
+    "static/media/uplift.png": "/react-portfolio/static/media/uplift.ca46fbf8.png",
+    "static/media/workoutTracker.png": "/react-portfolio/static/media/workoutTracker.25d4daf6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7c28671.js",
+    "static/js/2.1e1fb0d8.chunk.js",
+    "static/css/main.85db82e4.chunk.css",
+    "static/js/main.7dfaf13a.chunk.js"
+  ]
+}
