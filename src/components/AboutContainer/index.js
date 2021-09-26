@@ -1,6 +1,8 @@
 import React from "react";
 import Header from "../../components/Header";
 import "./style.css";
+import profile from "./profile.png"
+
 
 
 function AboutContainer() {
@@ -9,8 +11,8 @@ function AboutContainer() {
         <div className="uk-container">
             <div className="uk-text-center">
                 <div id="about-container">
-                    <div id="about-me">
-                        <Header title="About Me" />
+                    <div id="about-me"><img src={profile} width="100" height="100" alt=" logo"></img>
+                     <Header title="About Me" />
                         <p className="uk-text-justify about-me">
                         Full-stack web developer with a background in immunology and preclinical research. 
                         I began my journey into programming in order to create access to tech for young Armenian women,

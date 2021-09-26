@@ -2,6 +2,7 @@ import upliftPic from "../pages/assets/images/uplift.png";
 import budgetTrackerPic from "../pages/assets/images/budgetTracker.png";
 import WorkoutTrackerPic from "../pages/assets/images/workoutTracker.png";
 import BetterEarthPic from "../pages/assets/images/betterEarth.png";
+import dayPlannerPic from "../pages/assets/images/dayPlanner.png"
 
 function ProjectCard(title, about, imgURL, siteURL, repoURL) {
     this.title = title;
@@ -41,8 +42,15 @@ const BetterEarth = new ProjectCard(
     "https://sheltered-sea-24671.herokuapp.com/footprintCard",
     "https://github.com/avaarm/Better-Earth"
 );
+const dayPlanner = new ProjectCard(
+    "Day Planner",
+    "This is a frontend Javascript application that utilizes a third-party API called Moment, a time and date library.",
+    dayPlannerPic,
+    "https://avaarm.github.io/day_planner/",
+    "https://github.com/avaarm/day_planner"
+);
 
 
-let portfolioData = [uplift, BudgetTracker, WorkoutTracker, BetterEarth];
+let portfolioData = [uplift, BudgetTracker, WorkoutTracker, BetterEarth, dayPlanner];
 
 export default portfolioData;
