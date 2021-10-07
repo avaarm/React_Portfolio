@@ -3,15 +3,13 @@ import Header from "../../components/Header";
 import "./style.css";
 import profile from "./profile.png"
 
-
-
 function AboutContainer() {
     return (
         // the uk-container class gives it a max width and wraps the main content of the website, also it will be centers and will have padding on the sides
-        <div className="uk-container">
+        <div className="uk-container uk-margin-right">
             <div className="uk-text-center">
                 <div id="about-container">
-                    <div id="about-me"><img src={profile} width="100" height="100" alt=" logo"></img>
+                    <div id="about-me"><img src={profile} width="100" height="100" alt="profile picture"></img>
                      <Header title="About Me" />
                         <p className="uk-text-justify about-me">
                         Full-stack web developer with a background in immunology and preclinical research. 
